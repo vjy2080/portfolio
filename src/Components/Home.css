@@ -7,7 +7,7 @@
     padding: 5px;
     border-radius: 50%;
     background: rgb(0, 16, 255);
-    background: linear-gradient(0deg, blue 0%, purple 25%, pink 75%, red 100%);
+    background: linear-gradient(0deg, #F11A7B 0%, #982176 50%, #3E001F 100%);
 }
 
 .mainTxt {
@@ -26,7 +26,7 @@
 
 }
 
-.icon{
+.icon {
     font-size: x-large;
     background-color: rgba(0, 0, 0, 0.472);
 }
@@ -230,23 +230,25 @@
 }
 
 .tracking-in-contract {
-	-webkit-animation: tracking-in-contract 0.8s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
-	        animation: tracking-in-contract 0.8s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+    -webkit-animation: tracking-in-contract 0.8s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+    animation: tracking-in-contract 0.8s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
 }
 
 @keyframes tracking-in-contract {
     0% {
-      letter-spacing: 1em;
-      opacity: 0;
+        letter-spacing: 1em;
+        opacity: 0;
     }
+
     40% {
-      opacity: 0.6;
+        opacity: 0.6;
     }
+
     100% {
-      letter-spacing: normal;
-      opacity: 1;
+        letter-spacing: normal;
+        opacity: 1;
     }
-  }
+}
 
 .header {
     width: 20%;
