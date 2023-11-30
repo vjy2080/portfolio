@@ -54,21 +54,21 @@ function Projects() {
             imageSrc: "./Images/Gyansutra.png",
             gitHubLink: "https://github.com/vjy2080/ReactJS/tree/master/gyansutra-institute",
             technologies: 'HTML, CSS, JavaSript, Bootstrap, ReactJS, JSON server',
-            previewLink: "", // Add the preview URL if available
+            previewLink: "https://codesandbox.io/p/sandbox/github/vjy2080/Gyansutra/tree/main",
         },
         {
             title: "News App",
             imageSrc: "./Images/NewsApp.png",
             gitHubLink: "https://github.com/vjy2080/ReactJS/tree/master/newsapp",
             technologies: 'HTML, CSS, JavaSript, Bootstrap, ReactJS, API',
-            previewLink: "", // Add the preview URL if available
+            previewLink: "https://codesandbox.io/p/sandbox/github/vjy2080/ReactJS/tree/master/newsapp",
         },
         {
             title: "Swift-Shop",
             imageSrc: "./Images/Swift-Shop.png",
             gitHubLink: "https://github.com/vjy2080/ReactJS/tree/master/swift-shop",
             technologies: 'HTML, CSS, JavaSript, Bootstrap, ReactJS, API, Redux',
-            previewLink: "", // Add the preview URL if available
+            previewLink: "https://codesandbox.io/p/sandbox/github/vjy2080/swift-shop/tree/main/",
         },
         {
             title: "WeatherApp",
@@ -82,7 +82,7 @@ function Projects() {
             imageSrc: "./Images/BikeVista.png",
             gitHubLink: "https://github.com/vjy2080/Assignment/tree/master/09_React-Router/assignment_09",
             technologies: 'HTML, CSS',
-            previewLink: "", // Add the preview URL if available
+            previewLink: "https://codesandbox.io/p/sandbox/github/vjy2080/bike-vista/tree/main/",
         },
     ];
 
